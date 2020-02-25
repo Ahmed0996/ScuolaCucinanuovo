@@ -1,3 +1,4 @@
+
 package dao;
 
 import java.sql.SQLException;
@@ -5,6 +6,8 @@ import java.util.List;
 import entity.Utente;
 
 //COMMENTO COMMIT!
+
+//prova commit ahmed
 public interface AmministratoreDAO {
 	void insert(Utente amministratore) throws SQLException;
 	void update(Utente amministratore) throws SQLException; //
