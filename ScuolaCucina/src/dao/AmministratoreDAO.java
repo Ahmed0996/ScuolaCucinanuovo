@@ -3,7 +3,7 @@ package dao;
 import java.sql.SQLException;
 import java.util.List;
 import entity.Utente;
-//commit ahmed
+
 //COMMENTO COMMIT!
 public interface AmministratoreDAO {
 	void insert(Utente amministratore) throws SQLException;
